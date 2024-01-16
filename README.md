@@ -1,4 +1,4 @@
-# AED-Simulator
+# Automated External Defibrillator(AED) Plus Simulator
 
 Group: 
 Rafeed Nazmul
