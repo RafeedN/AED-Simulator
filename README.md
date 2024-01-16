@@ -1,6 +1,13 @@
 # Automated External Defibrillator(AED) Plus Simulator
 
-Group: 
+## Project Context
+
+## Learning Goals Achieved
+
+## Project Demo Video
+
+Group:
+
 Rafeed Nazmul
 - Use cases 4-8
 - All Header Files
